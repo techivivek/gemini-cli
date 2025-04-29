@@ -10,7 +10,7 @@ Search anything using Google's Gemini AI directly from your terminal!
 ## ⚡ Quick Start
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/gemini-cli.git
+git clone https://github.com/techivivek/gemini-cli.git
 cd gemini-cli
 
 # Install dependencies
