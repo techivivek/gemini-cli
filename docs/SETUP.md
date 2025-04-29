@@ -2,7 +2,14 @@
 
 ## API Key Configuration
 1. Get your key from [Google AI Studio](https://aistudio.google.com/)
-2. For permanent access:
+   
+For Google AI Studio & Gemini API:
+
+Sign in with your Google account.
+
+Click "Get API key" to generate a key. Keep this key secure!
+
+3. For permanent access:
    ```bash
    # Linux/macOS
    echo 'export GOOGLE_API_KEY="your_key"' >> ~/.bashrc
