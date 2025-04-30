@@ -20,7 +20,7 @@ pip install -r requirements.txt
 export GOOGLE_API_KEY="your_key_here"
 
 # Windows (CMD)
-setx GOOGLE_API_KEY "your_key_here"
+$env:GOOGLE_API_KEY="your_api_key_here"
 
 # Run!
 python src/gemini.py "Explain quantum physics"
