@@ -26,3 +26,5 @@ $env:GOOGLE_API_KEY="your_api_key_here"
 
 # Run!
 python src/gemini.py "Explain quantum physics"
+
+Developed by Vivek Sikarwar
