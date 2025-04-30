@@ -16,6 +16,8 @@ cd gemini-cli
 # Install dependencies
 pip install -r requirements.txt
 
+Note:- Go to gemini_cmd.bat change and copy the path of gemini.py and paste on the bat file on given area!!
+
 # Set API key (Linux/macOS)
 export GOOGLE_API_KEY="your_key_here"
 
